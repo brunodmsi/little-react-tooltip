@@ -4,6 +4,9 @@
   "description": "A minimalist React tooltip with a few options",
   "main": "lib/index.js",
   "types": "lib",
+  "files": [
+    "lib"
+  ],
   "repository": "https://github.com/brunodmsi/little-react-tooltip",
   "author": "Bruno De Masi",
   "license": "MIT",
@@ -18,7 +21,5 @@
     "react": "^16.13.1",
     "styled-components": "^5.1.0",
     "typescript": "^3.8.3"
-  },
-  "dependencies": {
   }
 }
